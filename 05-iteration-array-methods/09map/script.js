@@ -39,7 +39,7 @@ const companyInfo = companies.map((company) => {
     category: company.category,
   };
 });
-// console.log(companyInfo);
+console.log(companyInfo);
 
 //create an array of objects with the name and length of each company in years
 const companyYears = companies.map((company) => {
@@ -84,7 +84,6 @@ console.log(squareAndDouble3);
 //getting the even number and then doubling it
 // const evenDouble = numbers.filter((number) => number % 2 === 0);
 // console.log(evenDouble);
-const evenDouble = numbers
-  .filter((number) => number % 2 === 0)
-  .map((number) => number * 2);
+const evenDouble = numbers.filter((number) => number % 2 === 0).map((number) => number * 2);
+
 console.log(evenDouble);
