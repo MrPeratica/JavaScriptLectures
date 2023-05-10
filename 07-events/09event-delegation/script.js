@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-
-const listItems = document.querySelector('li')
-
-listItems.forEach((item) => {
-    item.addEventListener('click', (e) => {
-        console.log(e.target);
-    })
-})
-=======
 //powerful event handling pattern
 
 //#######################################
@@ -61,4 +51,3 @@ list.addEventListener('click', (e) => {
 
 //#######################################
 //#######################################
->>>>>>> upstream/master

@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-const button = document.querySelector('form button')
-const div = document.querySelector('form div:nth-child(2)')
-
-button.addEventListener('click', (e) => {
-    // alert('Button was clicked')
-    console.log(button);
-    e.stopPropagation()
-});
-=======
 //###########################################
 //alert when button was clicked
 // const button = document.querySelector('form button');
@@ -66,4 +56,3 @@ document.body.addEventListener('click', () => {
 
 //###########################################
 //###########################################
->>>>>>> upstream/master

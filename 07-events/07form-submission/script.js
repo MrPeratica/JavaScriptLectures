@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-const inputItem = document.getElementById('input-form')
-const inputForm = document.getElementById('form-control')
-=======
 //###########################################
 const form = document.getElementById('item-form');
 
@@ -88,4 +84,3 @@ function onSubmit2(e) {
   }
 }
 form.addEventListener('submit', onSubmit2);
->>>>>>> upstream/master

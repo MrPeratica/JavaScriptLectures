@@ -1,6 +1,5 @@
 // https://www.toptal.com/developers/keycode
 
-<<<<<<< HEAD
 const key = document.querySelectorAll('.key')
 
 window.addEventListener('keydown', function (e) {
@@ -21,7 +20,6 @@ window.addEventListener('keydown', function (e) {
 
 // console.log();
 
-=======
 //Method1
 // window.addEventListener('keydown', (e) => {
 //   const insert = document.getElementById('insert');
@@ -75,4 +73,3 @@ function showKeyCodes(e) {
 }
 
 window.addEventListener('keydown', showKeyCodes);
->>>>>>> upstream/master
