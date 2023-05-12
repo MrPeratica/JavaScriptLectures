@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // script.js
 document.addEventListener('DOMContentLoaded', () => {
     const generateButton = document.getElementById('generate');
@@ -36,7 +35,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
   
-=======
 //###########################
 //fetch api
 // function fetchUser() {
@@ -177,4 +175,3 @@ fetchUser();
 //###########################
 //###########################
 //###########################
->>>>>>> upstream/master
